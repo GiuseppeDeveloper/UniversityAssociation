@@ -29,6 +29,6 @@ This project comes with no warranties or guarantees. The author is not responsib
 
 ---
 
-**Note:** Please make sure to respect licenses, terms of use, and intellectual property rights associated with any third-party libraries, frameworks, or assets used in this project.
+**Note:** Some images may not be working due to technical issues. I apologize for the inconvenience, but it seems that the website providing the image links is not cooperating.
 
 Thank you again for your interest in Associazione Einstein Galaxy!
